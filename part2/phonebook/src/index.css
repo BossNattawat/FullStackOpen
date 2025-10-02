@@ -1,0 +1,9 @@
+h2 {
+    color: lightcoral;
+}
+
+.success {
+    padding: 10px;
+    background-color: lightblue;
+    border: solid 10px lightgreen;
+}
